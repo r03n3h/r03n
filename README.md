@@ -15,8 +15,8 @@ Born in Amsterdam in 1978, raised in Amstelveen. Started after primary school at
 <h4>2005</h4> With this I was ready to become an independent entrepreneur and in 2005 I continued as a self-employed person. Together with a partner, I started maintaining small-scale networks in the region and building web applications. In 2006 I followed various training courses to specialize myself. i.a. Dreamweaver, Joomla CRM and HTML & CSS followed.
 <h4>2007</h4> Besides my love for computers I also have a love for food and drink, cooking with wine :). In 2007 I got the opportunity to take over my favorite restaurant and I started this adventure with my then girlfriend. This meant after 1 year that I had to make a choice with my partner of the IT company and we then split up and I only started to focus on Horeca and Hosting.
 <h4>2016</h4> The restaurant was closed in 2016 and I still held a number of positions within the Amsterdam hospitality industry. In 2018 I returned to my father's company to replace the Commercial Director. There I also came into contact with the ERP system that I had implemented 20 years earlier. Now time for something new!
-<h4>2021</h4> With the help of a friend I ended up at Pathways, I first did a part of the TekkieWorden trail. My IT path has become somewhat clearer, but a choice has not yet been made. The love for it is back and I'm sure I want to continue in it. During the 4 weeks of PathWays I started with #100DaysOfCode, already completed the Responsive Webdesign Certification from freeCodeCamp, enrolled in Web Development 2.0 at WINC and Junior Data Engineer at BitAcademy. 
-<h4>2022</h4> I hope to start the Ethical Hacker bootcamp at NOVI in February 2022 or the Cyber Security specialist at HVA.
+<h4>2021</h4> With the help of a friend I ended up at Pathways, I first did a part of the TekkieWorden trail. My IT path has become somewhat clearer, but a choice has not yet been made. My love for it is back and I'm sure I want to continue in the it. During the 4 weeks of PathWays I started with #100DaysOfCode, already completed the Responsive Webdesign Certification from freeCodeCamp, enrolled in Web Development 2.0 at WINC and Junior Data Engineer at BitAcademy. 
+<h4>2022</h4> I got certified as Junior Data Engineer and started the bootcamp Ethical Hacker at NOVI Hogeschool.
 
 More of a Pi-shape profile than a T-shape profile. Ultimately the solution will be that I gain enough knowledge, can build an app that can make the choice for me what I will do in 2 years :)
 
@@ -24,11 +24,11 @@ More of a Pi-shape profile than a T-shape profile. Ultimately the solution will 
 - Computers :) 
 - HTML, CSS, Javascript
 - Python
-- AWS
+- JAVA
 - Security, ethical hacking, Kali Linux
 
 <h2>🌱 I’m currently learning</h2>
-Web Development 2.0 at WINC Academy
+Cyber Security at NOVI Hogeschool
 
 <h2>📫 How to reach me</h2>
 Just try to find me :)
